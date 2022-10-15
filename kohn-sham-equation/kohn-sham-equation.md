@@ -46,3 +46,9 @@ I wrote the C++ program called **RAtom** solving nonlinear Kohn-Sham equation fo
 2. Radial electron distribution for C atom - logarithmic scale
 ![Radial electron distribution for C atom - logarithmic scale](./fig2.png)
 
+3. The eigenfunction 3s2 for Mg atom
+![The eigenfunction 3s2 for Mg atom](./fig3.png)
+
+4. The eigenfunction 2p3 for N atom
+![The eigenfunction 2p3 for N atom](./fig4.png)
+
