@@ -39,11 +39,10 @@ I wrote the C++ program called **RAtom** solving nonlinear Kohn-Sham equation fo
 
 ### Exemplary solutions
 
-Radial electron distribution for C atom - linear scale
-
+1. Radial electron distribution for C atom - linear scale
 ![Radial electron distribution for C atom - linear scale](./fig1.png)
 
 
-Radial electron distribution for C atom - logarithmic scale
+2. Radial electron distribution for C atom - logarithmic scale
 ![Radial electron distribution for C atom - logarithmic scale](./fig2.png)
 
